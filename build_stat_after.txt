@@ -1,0 +1,439 @@
+-----------------------------
+Rollup File Analysis
+-----------------------------
+bundle size:    387.069 KB
+original size:  431.364 KB
+code reduction: 10.27 %
+module count:   42
+
+███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/wired-icon/lib/iconset/icon-set-full.js
+bundle space:    54.8 %
+rendered size:   212.116 KB
+original size:   210.226 KB
+code reduction:  0 %
+dependents:      1
+  - /node_modules/wired-icon/lib/iconset/icon-set.js
+
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-element/lib/updating-element.js
+bundle space:    6.45 %
+rendered size:   24.953 KB
+original size:   27.449 KB
+code reduction:  9.09 %
+dependents:      1
+  - /node_modules/lit-element/lit-element.js
+
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/renderer.js
+bundle space:    5.17 %
+rendered size:   20.026 KB
+original size:   22.79 KB
+code reduction:  12.13 %
+dependents:      1
+  - /node_modules/roughjs/bin/generator.js
+
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/parts.js
+bundle space:    3.66 %
+rendered size:   14.184 KB
+original size:   16.254 KB
+code reduction:  12.74 %
+dependents:      3
+  - /node_modules/lit-html/lib/render.js
+  - /node_modules/lit-html/lib/default-template-processor.js
+  - /node_modules/lit-html/lit-html.js
+
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/shady-render.js
+bundle space:    3.28 %
+rendered size:   12.698 KB
+original size:   13.971 KB
+code reduction:  9.11 %
+dependents:      1
+  - /node_modules/lit-element/lit-element.js
+
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/path.js
+bundle space:    3.11 %
+rendered size:   12.023 KB
+original size:   14.535 KB
+code reduction:  17.28 %
+dependents:      1
+  - /node_modules/roughjs/bin/renderer.js
+
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/template.js
+bundle space:    2.38 %
+rendered size:   9.228 KB
+original size:   10.304 KB
+code reduction:  10.44 %
+dependents:      7
+  - /node_modules/lit-html/lib/modify-template.js
+  - /node_modules/lit-html/lib/template-instance.js
+  - /node_modules/lit-html/lib/template-result.js
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lib/template-factory.js
+  - /node_modules/lit-html/lit-html.js
+  - /node_modules/lit-html/lib/shady-render.js
+
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-element/lit-element.js
+bundle space:    2 %
+rendered size:   7.73 KB
+original size:   8.827 KB
+code reduction:  12.43 %
+dependents:      3
+  - /node_modules/wired-lib/lib/wired-base.js
+  - /node_modules/wired-icon/lib/wired-icon.js
+  - /src/WiredIconTest.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-element/lib/decorators.js
+bundle space:    1.36 %
+rendered size:   5.268 KB
+original size:   11.572 KB
+code reduction:  54.48 %
+dependents:      1
+  - /node_modules/lit-element/lit-element.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/template-instance.js
+bundle space:    1.36 %
+rendered size:   5.264 KB
+original size:   6.034 KB
+code reduction:  12.76 %
+dependents:      3
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lit-html.js
+  - /node_modules/lit-html/lib/shady-render.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/generator-base.js
+bundle space:    1.36 %
+rendered size:   5.254 KB
+original size:   6.373 KB
+code reduction:  17.56 %
+dependents:      1
+  - /node_modules/roughjs/bin/generator.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/modify-template.js
+bundle space:    1.2 %
+rendered size:   4.639 KB
+original size:   5.07 KB
+code reduction:  8.5 %
+dependents:      1
+  - /node_modules/lit-html/lib/shady-render.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/geometry.js
+bundle space:    1.15 %
+rendered size:   4.434 KB
+original size:   5.113 KB
+code reduction:  13.28 %
+dependents:      3
+  - /node_modules/roughjs/bin/utils/hachure.js
+  - /node_modules/roughjs/bin/fillers/filler-utils.js
+  - /node_modules/roughjs/bin/fillers/starburst-filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/svg-base.js
+bundle space:    1 %
+rendered size:   3.877 KB
+original size:   4.532 KB
+code reduction:  14.45 %
+dependents:      1
+  - /node_modules/roughjs/bin/svg.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/template-result.js
+bundle space:    1 %
+rendered size:   3.854 KB
+original size:   5.164 KB
+code reduction:  25.37 %
+dependents:      2
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lit-html.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/starburst-filler.js
+bundle space:    0.97 %
+rendered size:   3.767 KB
+original size:   4.297 KB
+code reduction:  12.33 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/generator.js
+bundle space:    0.91 %
+rendered size:   3.536 KB
+original size:   4.474 KB
+code reduction:  20.97 %
+dependents:      1
+  - /node_modules/roughjs/bin/svg.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/filler-utils.js
+bundle space:    0.9 %
+rendered size:   3.491 KB
+original size:   3.941 KB
+code reduction:  11.42 %
+dependents:      5
+  - /node_modules/roughjs/bin/fillers/hachure-filler.js
+  - /node_modules/roughjs/bin/fillers/dot-filler.js
+  - /node_modules/roughjs/bin/fillers/dashed-filler.js
+  - /node_modules/roughjs/bin/fillers/zigzag-line-filler.js
+  - /node_modules/wired-lib/lib/wired-lib.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-element/lib/css-tag.js
+bundle space:    0.6 %
+rendered size:   2.338 KB
+original size:   2.9 KB
+code reduction:  19.38 %
+dependents:      1
+  - /node_modules/lit-element/lit-element.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/utils/hachure.js
+bundle space:    0.6 %
+rendered size:   2.333 KB
+original size:   2.865 KB
+code reduction:  18.57 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler-utils.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/wired-icon/lib/wired-icon.js
+bundle space:    0.57 %
+rendered size:   2.205 KB
+original size:   2.688 KB
+code reduction:  17.97 %
+dependents:      1
+  - /src/WiredIconTest.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/zigzag-line-filler.js
+bundle space:    0.51 %
+rendered size:   1.987 KB
+original size:   2.258 KB
+code reduction:  12 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/wired-lib/lib/wired-base.js
+bundle space:    0.47 %
+rendered size:   1.82 KB
+original size:   2.081 KB
+code reduction:  12.54 %
+dependents:      1
+  - /node_modules/wired-icon/lib/wired-icon.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/default-template-processor.js
+bundle space:    0.46 %
+rendered size:   1.789 KB
+original size:   2.059 KB
+code reduction:  13.11 %
+dependents:      1
+  - /node_modules/lit-html/lit-html.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/template-factory.js
+bundle space:    0.46 %
+rendered size:   1.763 KB
+original size:   1.947 KB
+code reduction:  9.45 %
+dependents:      3
+  - /node_modules/lit-html/lib/render.js
+  - /node_modules/lit-html/lit-html.js
+  - /node_modules/lit-html/lib/shady-render.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/dashed-filler.js
+bundle space:    0.45 %
+rendered size:   1.727 KB
+original size:   1.998 KB
+code reduction:  13.56 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/render.js
+bundle space:    0.43 %
+rendered size:   1.665 KB
+original size:   1.887 KB
+code reduction:  11.76 %
+dependents:      2
+  - /node_modules/lit-html/lit-html.js
+  - /node_modules/lit-html/lib/shady-render.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/dot-filler.js
+bundle space:    0.43 %
+rendered size:   1.661 KB
+original size:   1.911 KB
+code reduction:  13.08 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/svg.js
+bundle space:    0.37 %
+rendered size:   1.447 KB
+original size:   1.675 KB
+code reduction:  13.61 %
+dependents:      1
+  - /node_modules/wired-lib/lib/wired-lib.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /src/open-wc-logo.js
+bundle space:    0.34 %
+rendered size:   1.301 KB
+original size:   1.463 KB
+code reduction:  11.07 %
+dependents:      1
+  - /src/WiredIconTest.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/filler.js
+bundle space:    0.32 %
+rendered size:   1.253 KB
+original size:   1.9 KB
+code reduction:  34.05 %
+dependents:      1
+  - /node_modules/roughjs/bin/renderer.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/hachure-filler.js
+bundle space:    0.32 %
+rendered size:   1.244 KB
+original size:   1.41 KB
+code reduction:  11.77 %
+dependents:      3
+  - /node_modules/roughjs/bin/fillers/zigzag-filler.js
+  - /node_modules/roughjs/bin/fillers/hatch-filler.js
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /src/WiredIconTest.js
+bundle space:    0.29 %
+rendered size:   1.123 KB
+original size:   1.725 KB
+code reduction:  34.9 %
+dependents:      1
+  - /src/wired-icon-test.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/dom.js
+bundle space:    0.27 %
+rendered size:   1.029 KB
+original size:   1.546 KB
+code reduction:  33.44 %
+dependents:      6
+  - /node_modules/lit-html/lib/template-instance.js
+  - /node_modules/lit-html/lib/template-result.js
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lib/render.js
+  - /node_modules/lit-html/lit-html.js
+  - /node_modules/lit-html/lib/shady-render.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lit-html.js
+bundle space:    0.26 %
+rendered size:   1.021 KB
+original size:   2.633 KB
+code reduction:  61.22 %
+dependents:      3
+  - /node_modules/lit-html/lib/shady-render.js
+  - /node_modules/lit-element/lit-element.js
+  - /src/open-wc-logo.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/part.js
+bundle space:    0.2 %
+rendered size:   789 Bytes
+original size:   834 Bytes
+code reduction:  5.4 %
+dependents:      2
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lit-html.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/lit-html/lib/directive.js
+bundle space:    0.17 %
+rendered size:   663 Bytes
+original size:   2.396 KB
+code reduction:  72.33 %
+dependents:      2
+  - /node_modules/lit-html/lib/parts.js
+  - /node_modules/lit-html/lit-html.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/hatch-filler.js
+bundle space:    0.16 %
+rendered size:   630 Bytes
+original size:   708 Bytes
+code reduction:  11.02 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/wired-lib/lib/wired-lib.js
+bundle space:    0.11 %
+rendered size:   412 Bytes
+original size:   10.848 KB
+code reduction:  96.2 %
+dependents:      1
+  - /node_modules/wired-icon/lib/wired-icon.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/wired-icon/lib/iconset/icon-set.js
+bundle space:    0.06 %
+rendered size:   239 Bytes
+original size:   292 Bytes
+code reduction:  18.15 %
+dependents:      1
+  - /node_modules/wired-icon/lib/wired-icon.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /node_modules/roughjs/bin/fillers/zigzag-filler.js
+bundle space:    0.06 %
+rendered size:   232 Bytes
+original size:   304 Bytes
+code reduction:  23.68 %
+dependents:      1
+  - /node_modules/roughjs/bin/fillers/filler.js
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+file:            /src/wired-icon-test.js
+bundle space:    0.01 %
+rendered size:   56 Bytes
+original size:   110 Bytes
+code reduction:  49.09 %
+dependents:      0
+
+
+(!) `this` has been rewritten to `undefined`
+https://rollupjs.org/guide/en/#error-this-is-undefined
+node_modules\wired-icon\lib\wired-icon.js
+4: import { getSvgPath } from './iconset/icon-set';
+5:
+6: const __decorate = this && this.__decorate || function (decorators, target, key, desc) {
+                      ^
+7:   const c = arguments.length;
+8:   let r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc;
+...and 3 other occurrences
+node_modules\wired-lib\lib\wired-base.js
+1: import { LitElement, query, css } from 'lit-element';
+2:
+3: const __decorate = this && this.__decorate || function (decorators, target, key, desc) {
+                      ^
+4:   const c = arguments.length;
+5:   let r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc;
+...and 3 other occurrences
+created dist in 7.5s
+Done in 10.32s.

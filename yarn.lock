@@ -1001,9 +1001,9 @@ acorn@^7.1.0:
   integrity sha512-add7dgA5ppRPxCFJoAGfMDi7PIBXq1RtGo7BhbLaxwrXPOmw8gq48Y9ozT01hUKy9byMjlR20EJhu5zlkErEkg==
 
 ansi-regex@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-4.1.0.tgz#8b9f8f08cf1acb843756a839ca8c7e3168c51997"
-  integrity sha512-1apePfXM1UOSqw0o9IiFAovVz9M5S1Dg+4TrDwfMewQ6p/rmMueb7tWZjQ1rx4Loy1ArBggoqGpfqqdI4rondg==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-4.1.1.tgz#164daac87ab2d6f6db3a29875e2d1766582dabed"
+  integrity sha512-ILlv4k/3f6vfQ4OoP2AGvirOktlQ98ZEL1k9FaQjxa3L1abBgbuTDAdPOpvbGncC0BTVQrl+OM8xZGK6tWXt7g==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -2869,13 +2869,13 @@ whatwg-url@^7.0.0:
     tr46 "^1.0.1"
     webidl-conversions "^4.0.2"
 
-"wired-icon@file:.\\lib\\wired-icon":
+"wired-icon@file:./lib/wired-icon":
   version "0.0.1"
   dependencies:
     lit-element "^2.2.1"
-    wired-lib "file:../../../AppData/Local/Yarn/Cache/v6/npm-wired-icon-0.0.1-3da1ddd7-a168-4c45-b8c7-65f1a854178a-1586907484516/node_modules/wired-lib"
+    wired-lib "file:lib/wired-icon/../wired-lib"
 
-"wired-lib@file:lib/wired-lib":
+"wired-lib@file:lib/wired-icon/../wired-lib":
   version "2.0.1"
   dependencies:
     lit-element "^2.2.1"

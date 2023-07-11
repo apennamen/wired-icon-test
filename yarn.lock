@@ -2036,9 +2036,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.13, lodash@^4.17.14:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0:
   version "1.4.0"
@@ -2869,13 +2869,13 @@ whatwg-url@^7.0.0:
     tr46 "^1.0.1"
     webidl-conversions "^4.0.2"
 
-"wired-icon@file:.\\lib\\wired-icon":
+"wired-icon@file:./lib/wired-icon":
   version "0.0.1"
   dependencies:
     lit-element "^2.2.1"
-    wired-lib "file:../../../AppData/Local/Yarn/Cache/v6/npm-wired-icon-0.0.1-3da1ddd7-a168-4c45-b8c7-65f1a854178a-1586907484516/node_modules/wired-lib"
+    wired-lib "file:lib/wired-icon/../wired-lib"
 
-"wired-lib@file:lib/wired-lib":
+"wired-lib@file:lib/wired-icon/../wired-lib":
   version "2.0.1"
   dependencies:
     lit-element "^2.2.1"
